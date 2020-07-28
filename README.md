@@ -2,5 +2,7 @@
 
 List of 404 pages with different suerheros.
 
-# 🏽‍💻STATUS
- STILL UNDER DEVELOPMENT
+# ABOUT
+
+# 🔴💻STATUS
+ ##STILL UNDER DEVELOPMENT
